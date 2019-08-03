@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import TextField from '@material-ui/core/TextField/TextField';
 import { makeStyles } from '@material-ui/core/styles';
-import {  MenuItem } from '@material-ui/core';
+import { MenuItem } from '@material-ui/core';
 
-import { FormattedMessage } from 'react-intl'
+import { FormattedMessage } from 'react-intl';
 
-const useStyles = makeStyles(theme => ({
- 
-}));
+const useStyles = makeStyles(theme => ({}));
 
 const fileType = [
   {
@@ -21,16 +19,10 @@ const fileType = [
   {
     value: 'tab',
     label: 'Tab Separated File',
-  }
+  },
 ];
 
-
-function  UrlImport(){
- 
-        return (
-            console.log()
-          
-        );
-
+function UrlImport() {
+  return console.log();
 }
 export default UrlImport;

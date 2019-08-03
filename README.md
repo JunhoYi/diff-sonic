@@ -13,7 +13,6 @@ Enjoy 🎉
 - **XML DIFF 체크:** 2개의 다른 버전 서버간의, XML DIFF 체크 
 - **응답 속도 체크** 작업후 현저하게, 느려진 페이지 체크 
 
-
 ## Contributing
 
 Please read our [Contributing Guide](./CONTRIBUTING.md) before submitting a Pull Request to the project.
